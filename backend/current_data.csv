@@ -1,0 +1,6 @@
+date,temperature,worker_count,machine_usage,material_cost,weather_condition
+2024-02-20,32,150,85,50000,Clear
+2024-02-21,30,140,78,52000,Rainy
+2024-02-22,28,135,80,51000,Cloudy
+2024-02-23,35,160,90,55000,Clear
+2024-02-24,29,145,85,53000,Windy
